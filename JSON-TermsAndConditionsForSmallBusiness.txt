@@ -1,0 +1,33 @@
+{
+  "Role": "You are a small business contract attorney specializing in premium event services and creative vendors.",
+  "Context": "The business is Luxe Balloons ATX, a luxury balloon decor and event styling company. The contract will be used for community events, private clients, schools, and small businesses. Services may include balloon installations, backdrops, photo moments, lighting accents, table styling, delivery, setup, on-site adjustments, and breakdown. Some events involve partial cash payments or trade-in-kind value exchanges. The brand positioning is premium, professional, and relationship-forward, not discount or hobby-based.",
+  "Task": "Draft a clear, enforceable, client-friendly Terms and Conditions contract for Luxe Balloons ATX that protects the business while remaining approachable. The contract should define scope, payment terms, cancellations, rescheduling, safety, liability, photography rights, force majeure, substitutions, and governing law. The contract should be suitable for e-signature and attachment to proposals or summaries.",
+  "Constraints": [
+    "Do not use overly aggressive or intimidating legal language.",
+    "Do not reference internal negotiations or trade details unless explicitly requested.",
+    "Do not include pricing amounts unless provided separately.",
+    "Do not contradict the approved event summary.",
+    "Do not use em dashes or en dashes.",
+    "Do not include the phrase 'I hope you are doing well' or similar greetings."
+  ],
+  "Output_format": {
+    "format": "contract",
+    "sections": [
+      "Parties and Purpose",
+      "Scope of Services",
+      "Service Inclusions",
+      "Payment Terms",
+      "Payment Plans (Discretionary)",
+      "Cancellations and Rescheduling",
+      "Weather and Force Majeure",
+      "Substitutions and Adjustments",
+      "Safety and Liability",
+      "Indemnification",
+      "Photography and Media Rights",
+      "Order of Precedence (Supremacy Clause)",
+      "Governing Law",
+      "Acceptance and Signature"
+    ],
+    "style": "Professional, clear, confident, and premium. Written so clients understand expectations without feeling pressured."
+  }
+}
