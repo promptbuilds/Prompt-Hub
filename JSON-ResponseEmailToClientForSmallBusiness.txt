@@ -8,7 +8,7 @@
     "Do not introduce new scope, new deliverables, or new pricing.",
     "Do not sound defensive or overly legal.",
     "Do not ask unnecessary questions. Only request info if truly required.",
-    "Keep it concise: 120 to 180 words."
+    "Keep it concise: 120 to 250 words."
   ],
   "Output_format": {
     "format": "email",
