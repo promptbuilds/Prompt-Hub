@@ -1149,7 +1149,7 @@
                 "title_case": false,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "AIzaSyBQ4OlMMDslW9mUWyAItfr1hasLIfTRUnc"
+                "value": "Add API Key"
               },
               "code": {
                 "advanced": true,
@@ -2379,7 +2379,7 @@
                 "title_case": false,
                 "track_in_telemetry": false,
                 "type": "str",
-                "value": "AIzaSyBQ4OlMMDslW9mUWyAItfr1hasLIfTRUnc"
+                "value": "Add API Key"
               },
               "google_cse_id": {
                 "_input_type": "SecretStrInput",
